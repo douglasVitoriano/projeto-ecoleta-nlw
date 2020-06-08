@@ -1,2 +1,4 @@
-# projeto-ecoleta-nlw
-Projeto Ecoleta
+# Projeto Ecoleta
+Projeto Ecoleta, desenvolvido na Next Level Week da Rockeseat.
+
+
